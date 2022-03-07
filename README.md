@@ -6,6 +6,11 @@ My credentials are towards Communication and Marketing, graduated in Public Rela
 
 Hopefully you'll soon see some nice insights and Data Science projects here. In the meanwhile, feel free to get in touch at marcus.vclemos@gmail.com
 
+**Links:**
+* [LinkedIn](https://www.linkedin.com/in/marcuslemos)
+* [Instagram](http://www.instagram.com/lemosmarcus)
+
+
 <!---
 lemosmarcus/lemosmarcus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
