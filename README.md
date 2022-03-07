@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" >
+</p>
+
 # Marcus Lemos
 <sub>*Marketing analyst* at Embraer</sub>
 
